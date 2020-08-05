@@ -1,6 +1,6 @@
 # yummy-pizza
 
-Please clone locally this service by running `git clone https://github.com/jkonini15/yummy-pizza.git` 
+Please clone locally this service by running `git clone https://github.com/jolakoci1/yummy-pizza.git` 
 
 Then install the required packages by opening in terminal `npm install`
 
